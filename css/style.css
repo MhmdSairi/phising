@@ -1,0 +1,5 @@
+@font-face {
+  font-family: wanwan;
+  src: url(iwan.ttf);
+}
+*{font-family: 'wanwan', sans-serif;}
